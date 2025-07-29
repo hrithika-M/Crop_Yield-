@@ -62,9 +62,5 @@ The Jupyter notebook or Python script performs:
 - `README.md` – Project description
 - `crop_yield.docx` – Word document with detailed explanation
 
----
 
-## 🧾 Author
 
-**M. Hrithika**  
-Roll No: 22XV1M6710
