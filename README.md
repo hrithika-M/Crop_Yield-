@@ -6,7 +6,7 @@ This project is part of the "Computer Oriented Statistical Methods" coursework a
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset (`crop_yield.csv`) contains:
 - Fertilizer Type (`Fert`): A or B
@@ -15,14 +15,14 @@ The dataset (`crop_yield.csv`) contains:
 
 ---
 
-## 🧪 Objective
+##  Objective
 
 To determine if there's a **statistically significant difference** in yield:
 - Between high and low water levels within the same fertilizer type (A and B).
 
 ---
 
-## 🔧 Libraries Used
+##  Libraries Used
 
 - **Pandas** - Data manipulation
 - **Scipy** - For performing the t-tests
@@ -31,7 +31,7 @@ To determine if there's a **statistically significant difference** in yield:
 
 ---
 
-## 🧬 Hypothesis
+##  Hypothesis
 
 - **Null Hypothesis (H₀)**: There is **no significant difference** in yield between high and low water usage for a given fertilizer type.
 - **Alternative Hypothesis (H₁)**: There **is a significant difference**.

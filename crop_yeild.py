@@ -35,4 +35,4 @@ print("Conclusion for Group B:")
 if p_val_B < 0.05:
     print("Reject the null hypothesis → Significant difference exists.")
 else:
-    print("Accept the null hypothesis → No significant difference.")
+    print("Accept the null hypothesis → No significant difference exists.")
